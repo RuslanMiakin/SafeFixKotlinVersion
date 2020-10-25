@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">SafeFix</string>
+    <string name="action_create_order">Create Order</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_share">Share</string>
+    <string name="open_drawer">Open drawer</string>
+    <string name="close_drawer">Close drawer</string>
+    <string name="summ">Сумма</string>
+    <string name="Category_name">Введите название категории</string>
+    <string name="icon_add">Выберите иконку</string>
+    <string name="send_add">Отправить</string>
+    <string name="delite_all">Удалить все записи</string>
+    <string name="print_all">Распечатать данные</string>
+    <string name="delite_ok">Данные Очищены</string>
+    <string name="or_send">Для удаления выберите 1 и 3</string>
+    <string name="summ_add">Введите сумму</string>
+    <string name="category_ok">Категория добавлена</string>
+    <string name="add_info">Введите данные</string>
+    <string name="size_error">Превышен размер строки</string>
+    <string name="category_dialog_add">Добавить категорию</string>
+    <string name="dialog_exit">Назад</string>
+    <string name="category_inter">Выберите категорию</string>
+    <string name="add_1">Аэропорт</string>
+    <string name="add_2">Фрукты</string>
+    <string name="add_3">Алкоголь</string>
+    <string name="add_4">Чистящие средства</string>
+    <string name="add_5">Сладкое</string>
+    <string name="add_6">Путешествия</string>
+    <string name="add_7">Бизнес</string>
+    <string name="add_8">Игрушки</string>
+    <string name="add_9">Брилианты</string>
+    <string name="add_10">Одежда</string>
+    <string name="add_11">Избранное</string>
+    <string name="add_12">Подарки</string>
+    <string name="add_13">Развлечения</string>
+    <string name="add_14">Банк</string>
+    <string name="add_15">Спорт</string>
+    <string name="add_16">Музыка</string>
+    <string name="add_17">Принадлежности</string>
+    <string name="add_18">Творчество</string>
+    <string name="add_19">Пица</string>
+    <string name="add_20">Растения</string>
+    <string name="add_21">Шоппинг</string>
+    <string name="add_22">Продукты</string>
+    <string name="add_23">Зубы</string>
+    <string name="add_24">Доставка</string>
+
+    <string-array name="spiner">
+        <item>Сортировка</item>
+        <item>Сортировка по дате</item>
+        <item>Сортировка по категории</item>
+        <item>Сортировка по сумме</item>
+    </string-array>
+
+    <string-array name="titles">
+        <item>SafeFix</item>
+        <item>История операций</item>
+        <item>Настройки</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
